@@ -1,16 +1,22 @@
-## Hi there 👋
+## Cristiane Sonni Pavani
 
-<!--
-**cpavani25/cpavani25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Liderança de times de engenharia de software há mais de 15 anos.
+Comecei como desenvolvedora, passei por análise e produto, e desde 2008 atuo em coordenação
+de equipes e produtos. Florianópolis, SC.
 
-Here are some ideas to get you started:
+**Onde já liderei**
+- **Casas Bahia Tecnologia** — squads de Meios de Pagamento (Private Label), Estoque, Carrinho e Checkout do
+  sistema de vendas das lojas físicas. Ambiente crítico: indisponibilidade é venda perdida na hora.
+- **Paradigma Business Solutions** — time de 17 pessoas, portfólio de projetos e estruturação do PMO.
+- **Softplan** — equipe de até 50 pessoas, roadmap, indicadores e orçamento da unidade de maior receita.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**IA aplicada à liderança de engenharia**
+Venho construindo agentes e skills para apoiar a rotina de gestão e o ciclo de desenvolvimento de software:
+diagnóstico de squad, refinamento estruturado, definição de pronto e verificação antes da entrega.
+
+**Formação**
+Bacharelado em Ciência da Computação (UEL) · MBA em Gerenciamento de Projetos (FGV) ·
+MBA em Liderança, Inovação e Gestão 3.0 (PUC-RS) · MBA em Gestão de Pessoas (PUC-RS)
+SAFe 4.0 Agilist · Management 3.0 · PACC-P · SFPC · PTFC · PTBC
+
+[LinkedIn](https://linkedin.com/in/cristiane-sonni-pavani)
